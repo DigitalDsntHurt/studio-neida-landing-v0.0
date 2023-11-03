@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <p className="description">
-          <a href="mailto:studio@studioneida.com" target="_blank">studio@studioneida.com</a>
+          <a className='text' href="mailto:space@studioneida.com" target="_blank">space@studioneida.com</a>
         </p>
       </main>
     </div>
